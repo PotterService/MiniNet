@@ -1,0 +1,22 @@
+{
+  "rent.bow": {
+    "url": "https://example.com",
+    "type": "rented",
+    "rentedDate": "2025-05-17",
+    "expires": "2025-06-17"
+  },
+
+  "gaming.portal": {
+    "url": "https://gaming.example.com",
+    "type": "rented",
+    "rentedDate": "2026-05-17",
+    "expires": "2026-07-01"
+  },
+
+  "test.rent": {
+    "url": "https://potterservice.github.io/magic-scripts/Bow-Sites/test-rent/",
+    "type": "rented",
+    "rentedDate": "2025-05-17",
+    "expires": "2025-08-17"
+  }
+}
